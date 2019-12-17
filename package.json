@@ -1,0 +1,9 @@
+{
+  "name": "container_test",
+  "version": "1.0.0",
+  "description": "Package for my test suite running with container",
+  "main": "index.js",
+  "scripts": {
+    "test": "sakuli run ./suite"
+  }
+}
